@@ -1,1 +1,1 @@
-# vercel-api
+# RESTful API with JSON Server for Vercel
